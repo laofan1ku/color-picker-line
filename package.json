@@ -1,0 +1,26 @@
+{
+  "name": "color-picker-npmtest",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.5.6",
+    "less": "^4.2.0",
+    "pinia": "^2.1.7",
+    "terser": "^5.28.1",
+    "uuid": "^9.0.1",
+    "vue": "^3.4.19"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.4",
+    "vue-tsc": "^1.8.27"
+  }
+}
