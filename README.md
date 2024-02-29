@@ -12,11 +12,11 @@ window.pinia = store;
 
 具体用法：
 
-``import {colorPickerLine} from 'color-picker-line';``
+`import {colorPickerLine} from 'color-picker-line';`
 
 template：
 
-  <colorPickerLine :max-number="6" :card-positions="cardPositions"/>``
+`<colorPickerLine :max-number="6" :card-positions="cardPositions"/>`
 
 params:
 maxNumber: 最多有多少种颜色
